@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 vvvvv
 ggg
+=======
+dddd
+>>>>>>> uut
